@@ -39,25 +39,6 @@ La relación entre los ángulos α y β queda descrita por la ecuación implíci
 | Interpolación de Lagrange | 1.243136 | 0.0038% |
 | Red neuronal | 1.243367 | 0.0224% |
 
----
-
-## 🗂️ Estructura del repositorio
-
-📁 /
-├── 📄 main.tex
-├── 📄 referencias.bib
-├── 📁 codigo/
-│   ├── 📝 DiferenciaFinitas.m
-│   ├── 📝 Lagrange.m
-│   ├── 📝 Polinomio.m
-│   └── 📝 RedNeuronal.m
-└── 📁 figuras/
-    ├── 🖼️ ejercicio1.png
-    ├── 🖼️ beta_vs_alpha.png
-    ├── 🖼️ derivada.png
-    ├── 🖼️ Lagrange.png
-    ├── 🖼️ Polinomio.png
-    └── 🖼️ red_neuronal.png
 
 ---
 
